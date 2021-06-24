@@ -20,3 +20,6 @@ a microphone with (again) a load (read), ground, and power wire(s)
 3 leds (probably best if different colors)
 battery pack for the arduino (we used a lipo . . . lithium something)
 screws
+
+I was working on a borrowed computer which didn't have Git hence the dated Files
+some of which accidentally got saved changes before being saved as a new file
